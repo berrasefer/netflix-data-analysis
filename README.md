@@ -1,4 +1,4 @@
-# Netflix Data Analysis 📊
+# Netflix Data Analysis 
 
 ## Project Overview
 This project explores a Netflix titles dataset using Python, pandas, and Matplotlib to identify patterns in content types, producing countries, release years, content ratings, and directors.
